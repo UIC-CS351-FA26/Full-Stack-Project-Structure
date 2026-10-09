@@ -1,3 +1,4 @@
+---
 # Logistics  
 
 **Q1:** At what time in the week would your group be available to meet online?  
@@ -11,11 +12,11 @@
 
 **Q2:** What is your goals that your group want to achieve in each weekly meeting?  
 **Example:**  
-*Prior to 3/13: Weekly Meeting we will plan out some preliminary info/idea for the project itself ahead of the scheduled meeting like which data source/API and data structures we will use in our backend. We will browse [the given list of public APIs for inspiration](https://github.com/public-apis/public-apis).*  
+*Prior to 10/30: Weekly Meeting we will plan out some preliminary info/idea for the project itself ahead of the scheduled meeting like which data source/API and data structures we will use in our backend. We will browse [the given list of public APIs for inspiration](https://github.com/public-apis/public-apis).*  
 
-*During week of 3/25: Work on the project rough draft itself to make a functioning project with data input, data structure usage, and processing into output on the frontend.*  
+*During week of 11/6: Work on the project rough draft itself to make a functioning project with data input, data structure usage, and processing into output on the frontend.*  
 
-*Prior to 4/17: Meet together weekly to target project weakpoints/bugs and possibly visit office hours to get guidance if the progress feels weak.*  
+*Prior to 11/20: Meet together weekly to target project weakpoints/bugs and possibly visit office hours to get guidance if the progress feels weak.*  
 
 ---
 
@@ -23,7 +24,7 @@
 
 **Q3a:** How can your group communicate when doing the Full Stack Group Project?  
 **Q3b:** What are the usernames of each group member on that platform?  
-**Q3c:** What is your group’s expected response time to messages?  
+**Q3c:** What is your group's expected response time to messages?  
 
 **Example:**  
 *We will use Discord for communication*  
@@ -63,39 +64,46 @@
 
 ---
 # Full Stack Group Project Track  
+
+There are two tracks this semester. Come up with **two ideas in each track** (four ideas total), then pick one in the Idea Finalization section below.
+
 ---
 
 # Track 1: Tackling Generative AI Consequences
+
+*Keywords: copyright, security, misinformation, bias, ethics*
+
 **Problem 1:** 
 
 **Solution 1:** 
+
+**Problem 2:** 
+
+**Solution 2:** 
 
 ---
 
 # Track 2: Technology for Public Goods 
 
-**Problem 2:**
+*Keywords: community, accessibility, sustainability, environment, public health, education, civic data, social impact*
 
-**Solution 2:** 
-
-**Problem 3:** 
+**Problem 3:**
 
 **Solution 3:**  
 
-# Track 3: Creative Coding and Cultural Expression
+**Problem 4:** 
 
-**Idea - Story - Inspiration 4:**
+**Solution 4:**  
 
-**Implementation 4:**
-
-**Idea - Story - Inspiration 5:**
-
-**Implementation 5:**
-
+---
 
 # Idea Finalization
 
-**From 5 project ideas you have above, please choose one of the project that you are going with for the rest of the semester. Explain why you are going with that project**
+**Q7: From the 4 project ideas you have above, please choose one project that you are going with for the rest of the semester. Explain why you are going with that project.**
+
+**Q8: Which two advanced data structures or algorithms from the Milestone 3 list do you plan to use — one from Group 1 and one from Group 2? For each, name the specific question your application needs to answer, and say why that structure is the right shape for it. (Plain DFS, BFS, and Dijkstra do not count. This is a plan, not a commitment — you may change it later as long as you explain why in Milestone 3.)**
+
+---
 
 # Extra Credit (Only do this if you are done with Idea Finalization)
 
@@ -122,3 +130,4 @@
 **Q7: Where will you deploy your project (e.g., Heroku, AWS, Render)? How will you manage environment variables and secrets during deployment?**
 
 **Q8: How will you ensure your deployment is reliable and easy to update?**
+---
