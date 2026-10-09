@@ -129,4 +129,3 @@ There are two tracks this semester. Come up with **two ideas in each track** (fo
 **Q7: Where will you deploy your project (e.g., Heroku, AWS, Render)? How will you manage environment variables and secrets during deployment?**
 
 **Q8: How will you ensure your deployment is reliable and easy to update?**
----
